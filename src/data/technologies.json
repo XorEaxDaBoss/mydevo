@@ -1,0 +1,26 @@
+[
+  {
+    "logo": "vscode-icons:file-type-cpp3",
+    "text": "C++"
+  },
+  {
+    "logo": "vscode-icons:file-type-csharp2",
+    "text": "C#"
+  },
+  {
+    "logo": "logos:python",
+    "text": "Python"
+  },
+  {
+    "logo": "logos:javascript",
+    "text": "JavaScript"
+  },
+  {
+    "logo": "logos:java",
+    "text": "Java"
+  },
+  {
+    "logo": "logos:nodejs-icon",
+    "text": "Node.js"
+  }
+]

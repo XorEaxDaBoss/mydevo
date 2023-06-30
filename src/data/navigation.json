@@ -1,0 +1,22 @@
+[
+  {
+    "href": "/",
+    "text": "Home"
+  },
+  {
+    "href": "/blog/",
+    "text": "Devotion"
+  },
+  {
+    "href": "https://www.facebook.com/silverangeloo",
+    "rel": "noopener noreferrer",
+    "target": "_blank",
+    "text": "Facebook"
+  },
+  {
+    "href": "https://instagram.com/gelooozxc",
+    "target": "_blank",
+    "rel": "noopener noreferrer",
+    "text": "Instagram"
+  }
+]
